@@ -12,7 +12,7 @@ click [here](https://github.com/PeakScripts/KRNLWRD/archive/refs/heads/main.zip)
 6) Click inject
 7) After injecting execute your script.
 
-# List of features :
+# List of features
 - Level 8 Executor
 - Custom Bytecode Conversion DLL
 - High stability
