@@ -2,7 +2,7 @@
 
 ## Important:  Make sure u run Bypass.bat before launching the Furk Ultra to prevent from getting kicked or banned
 
-click [here](https://github.com/PeakScripts/KRNLWRD/archive/refs/heads/main.zip) to download
+ **click [here](https://github.com/PeakScripts/KRNLWRD/archive/refs/heads/main.zip) to download**
 
 # 📁 〢 Tuturiol
 1) Download [KRNLWRD](https://github.com/PeakScripts/KRNLWRD/archive/refs/heads/main.zip)
